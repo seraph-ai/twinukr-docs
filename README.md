@@ -6,6 +6,13 @@ This tracker was built to help collate and verify reports, images and videos com
 
 The posts are then verified by our collection of OSINT community members before being tagged to an incident that is visible on the public tracker. This method allows us to show all the posts and media related to one incident.  
 
+<br>
+<div align="center"> 
+  <a href=https://forms.office.com/r/EWew01PWB1>
+  <b>Get Involved</b>
+  </a>
+</div>
+
 ## Aims
 
 * Provide a unified portal for verified OSINT data collected from social media sources.
