@@ -49,7 +49,7 @@ A: No, we aren't sure it will ever be "complete" - we are still building out som
 </details>
 <br>
 <details><summary><b>Q: How can I contribute?</b></summary>
-A: At the moment we are building our moderation team - if you are a specialist in the conflict or have a good OSINT background please get in touch using the contact info below.
+A: At the moment we are building our moderation team - if you are a specialist in the conflict or have a good OSINT background please get in touch using the "Get Involved" link at the top of the page.
 </details>
   
 ## Contact
